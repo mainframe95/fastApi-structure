@@ -1,0 +1,7 @@
+
+
+* first install all dependences
+- pip install requirements.txt
+
+* run app
+- uvicorn main:app --reload
